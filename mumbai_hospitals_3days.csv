@@ -1,0 +1,28 @@
+day,ward,name,lat,long,count,CI Health Index
+1,Ward 1,Bombay Medical Research Centre,18.94932,72.82783,100,0.01961
+1,Ward 1,Wockhardt Hospitals,18.98567,72.82441,350,0.5098
+1,Ward 1,Global Hospital,19.00838,72.84021,150,0.11765
+1,Ward 2,Kohinoor Hospital,19.08624,72.8842,250,0.31373
+1,Ward 2,Apollo Spectra Hospitals,19.05831,72.91028,90,0
+1,Ward 2,Sterling Wockhardt Hospital,19.07186,72.98792,140,0.09804
+1,Ward 3,Lilavati Hospital And Research Centre,19.06161,72.82444,300,0.41176
+1,Ward 3,Surya Hospital,19.12066,72.84507,150,0.11765
+1,Ward 3,Seven Hills Hospital,19.13492,72.87668,120,0.05882
+2,Ward 1,Bombay Medical Research Centre,18.94932,72.82783,120,0.05882
+2,Ward 1,Wockhardt Hospitals,18.98567,72.82441,400,0.60784
+2,Ward 1,Global Hospital,19.00838,72.84021,300,0.41176
+2,Ward 2,Kohinoor Hospital,19.08624,72.8842,300,0.41176
+2,Ward 2,Apollo Spectra Hospitals,19.05831,72.91028,200,0.21569
+2,Ward 2,Sterling Wockhardt Hospital,19.07186,72.98792,200,0.21569
+2,Ward 3,Lilavati Hospital And Research Centre,19.06161,72.82444,600,1
+2,Ward 3,Surya Hospital,19.12066,72.84507,210,0.23529
+2,Ward 3,Seven Hills Hospital,19.13492,72.87668,150,0.11765
+3,Ward 1,Bombay Medical Research Centre,18.94932,72.82783,250,0.31373
+3,Ward 1,Wockhardt Hospitals,18.98567,72.82441,550,0.90196
+3,Ward 1,Global Hospital,19.00838,72.84021,330,0.47059
+3,Ward 2,Kohinoor Hospital,19.08624,72.8842,370,0.54902
+3,Ward 2,Apollo Spectra Hospitals,19.05831,72.91028,250,0.31373
+3,Ward 2,Sterling Wockhardt Hospital,19.07186,72.98792,290,0.39216
+3,Ward 3,Lilavati Hospital And Research Centre,19.06161,72.82444,450,0.70588
+3,Ward 3,Surya Hospital,19.12066,72.84507,350,0.5098
+3,Ward 3,Seven Hills Hospital,19.13492,72.87668,300,0.41176
